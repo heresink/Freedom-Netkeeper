@@ -1,0 +1,11 @@
+F:\VS2013Project\E信轻巧版\E信轻巧版\bin\Debug\E信轻巧版.exe.config
+F:\VS2013Project\E信轻巧版\E信轻巧版\bin\Debug\E信轻巧版.exe
+F:\VS2013Project\E信轻巧版\E信轻巧版\bin\Debug\E信轻巧版.pdb
+F:\VS2013Project\E信轻巧版\E信轻巧版\obj\Debug\E信轻巧版.csprojResolveAssemblyReference.cache
+F:\VS2013Project\E信轻巧版\E信轻巧版\obj\Debug\E信轻巧版.Properties.Resources.resources
+F:\VS2013Project\E信轻巧版\E信轻巧版\obj\Debug\E信轻巧版.csproj.GenerateResource.Cache
+F:\VS2013Project\E信轻巧版\E信轻巧版\obj\Debug\E信轻巧版.exe
+F:\VS2013Project\E信轻巧版\E信轻巧版\obj\Debug\E信轻巧版.pdb
+F:\VS2013Project\E信轻巧版\E信轻巧版\obj\Debug\E信轻巧版.MainForm.resources
+F:\VS2013Project\E信轻巧版\E信轻巧版\bin\Debug\DotRas.dll
+F:\VS2013Project\E信轻巧版\E信轻巧版\bin\Debug\DotRas.xml
